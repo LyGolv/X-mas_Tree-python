@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/X-mas Tree/*
+!/X-mas Tree/task/
+/X-mas Tree/task/*
+!/X-mas Tree/task/xmasstree.py
